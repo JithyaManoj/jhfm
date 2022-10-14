@@ -1,0 +1,25 @@
+.pudding{
+    width:100%;
+    font-size:23px;
+    margin:0px;
+    box-shadow:5px 5px 5px coral;
+}
+.cheescake{
+    font-size: 20px;
+    color: black;
+}
+.chocolate{
+    position: fixed;
+    bottom: 0;
+    background-color: rgb(7, 229, 249);
+    width: 100%;
+    text-align: center;
+    font-size: 18px;
+    line-height: 3;
+}
+canvas{
+    border: 4px solid rgb(181, 17, 80);
+    border-radius: 30px;
+    box-shadow: 7px 7px 56px rgb(255, 173, 203);
+    
+}
